@@ -69,4 +69,4 @@ This project is inspired by [Anthony Fu](https://github.com/antfu)'s [releases.a
 
 ## License
 
-[MIT](./LICENSE)
+[MIT](./LICENSE).
